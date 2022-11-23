@@ -1,0 +1,97 @@
+City_ID,City,Country,Max Temp,Humidity,Cloudiness,Lat,Lng,Hotel Name
+0,Busselton,AU,82.42,34,72,-33.65,115.3333,Observatory Guest House
+4,Bredasdorp,ZA,72.23,42,55,-34.5322,20.0403,Bredasdorp Country Manor
+8,Saint-Georges,GD,78.94,80,43,12.0564,-61.7485,Radisson Grenada Beach Resort
+12,Port Elizabeth,ZA,70.32,66,100,-33.918,25.5701,39 On Nile Guest House
+13,Cape Town,ZA,73.11,63,91,-33.9258,18.4232,"Radisson Blu Hotel Waterfront, Cape Town"
+14,Sao Joao Da Barra,BR,71.89,88,72,-21.6403,-41.0511,Pousada Porto De Canoas
+15,Dingle,PH,84.09,78,90,10.9995,122.6711,SEGAYA PROPERTY
+20,Meulaboh,ID,81.99,74,100,4.1363,96.1285,Kost Pria
+23,Harper,LR,79.21,83,78,4.375,-7.7169,Screensaver
+24,Quelimane,MZ,87.75,55,40,-17.8786,36.8883,Hotel Flamingo
+32,Souillac,MU,81.55,57,1,-20.5167,57.5167,Shanti Maurice Resort & Spa
+35,Georgetown,MY,86.9,76,20,5.4112,100.3354,Cititel Penang
+36,Bouna,CI,77.41,21,8,9.2667,-3.0,Hôtel lababa
+39,Mansoa,GW,70.21,45,35,12.0733,-15.3189,Hotel Uaque
+40,Hithadhoo,MV,81.82,72,39,-0.6,73.0833,Scoop Guest House
+43,Saint-Philippe,RE,83.1,75,57,-21.3585,55.7679,Le four à pain
+49,Lichinga,MZ,78.49,47,13,-13.3128,35.2406,Residencial Bendiak
+50,Jizan,SA,88.74,30,0,17.3333,42.6667,شهدان. ابوالحجر
+51,Arraial Do Cabo,BR,73.26,83,20,-22.9661,-42.0278,Pousada Porto Praia
+52,Sokoto,NG,75.42,17,94,13.0609,5.239,Grand Ibro Hotel
+55,Hermanus,ZA,75.79,59,93,-34.4187,19.2345,Misty Waves Boutique Hotel
+69,Victoria,HK,77.38,84,100,22.2855,114.1577,Mini Central
+74,Soyo,AO,78.46,79,75,-6.1349,12.3689,Hospedaria ndozi'ame
+77,Soni,TZ,76.57,57,82,-4.85,38.3667,Maweni Farm Hotel & Camping
+78,Hambantota,LK,84.63,68,58,6.1241,81.1185,Bungalow 63
+83,Omboue,GA,81.03,76,69,-1.5746,9.2618,Hotel Olako
+86,Carnarvon,AU,76.78,67,69,-24.8667,113.6333,Hospitality Carnarvon
+87,Gwadar,PK,82.9,23,0,25.1216,62.3254,Sadaf Resort
+90,Doha,QA,78.78,50,0,25.2867,51.5333,Mövenpick Doha
+91,Sao Filipe,CV,77.92,59,100,14.8961,-24.4956,Hotel Xaguate
+93,Lagunas,PE,72.16,96,7,-5.2269,-75.6753,Hospedaje Eco
+95,Inhambane,MZ,82.15,46,8,-23.865,35.3833,Oceano
+102,Mahebourg,MU,84.49,58,40,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+106,Bambous Virieux,MU,84.45,58,40,-20.3428,57.7575,Casa Tia Villa
+108,Omidiyeh,IR,84.07,24,0,30.7597,49.705,Royal Complex
+110,Oussouye,SN,73.45,37,61,12.485,-16.5469,Auberge du Routard
+111,Bandarbeyla,SO,82.81,54,7,9.4942,50.8122,JABIR HOTEL
+115,Richards Bay,ZA,84.33,45,58,-28.783,32.0377,BON Hotel Waterfront Richards Bay
+116,Porto Walter,BR,75.18,89,99,-8.2686,-72.7439,Hotel Silva
+118,Santa Rosa,PH,88.11,71,100,14.3122,121.1114,Erlyn’s Sta Rosa City Home
+125,Pointe Michel,DM,79.72,75,13,15.25,-61.3833,Roseau Hostel & Beach Front Property
+130,Binga,ZW,86.95,47,32,-17.6203,27.3414,Lakeview Inn Binga
+131,Minab,IR,89.92,11,0,27.1467,57.0801,Bam campground
+133,Harrismith,ZA,75.04,26,99,-28.2728,29.1295,Sir Harry's Estate
+137,Bodden Town,KY,80.92,84,53,19.2833,-81.25,Will T Place
+139,Ambikapur,IN,76.93,30,1,23.1167,83.2,Hotel Birendra Prabha
+141,Uthal,PK,86.83,14,2,25.8072,66.6219,Al-Mustafa Hotel
+142,Banda Aceh,ID,82.24,72,100,5.5577,95.3222,OYO 884 Rumoh PMI Hotel
+144,Bombay,IN,89.58,25,47,19.0144,72.8479,Hotel Avon Ruby-Dadar Hotels
+145,Senanga,ZM,88.7,36,86,-16.1167,23.2667,Zango lodge
+146,Bubaque,GW,81.39,48,25,11.2833,-15.8333,"Casa Dora, Bubaque"
+152,Kourou,GF,75.25,87,38,5.1552,-52.6478,Lodge TAKINI4 Guesthouse KOUROU FGU
+155,Eyl,SO,85.41,53,1,7.9803,49.8164,EYL AQUE SYSTEM
+159,El Cobre,CU,76.44,78,20,20.0489,-75.9469,Hotel El Cobre
+160,Cockburn Town,TC,81.1,77,5,21.4612,-71.1419,Osprey Beach Hotel
+161,Black River,JM,75.11,87,100,18.0264,-77.8487,Idlers' Rest Beach Hotel
+164,Moussoro,TD,79.72,9,6,13.6408,16.4901,Pharmacie alnadja Moussoro
+165,Bathsheba,BB,79.41,83,40,13.2167,-59.5167,Atlantis Hotel
+170,Monrovia,LR,77.23,86,59,6.3005,-10.7969,Sunset Inn
+173,Nkhotakota,MW,85.23,50,17,-12.9274,34.2961,Sitima Inn
+176,Casa Nova,BR,75.69,67,96,-9.4167,-41.1333,LÔRO BEACH. DUNAS
+179,Caravelas,BR,70.79,95,100,-17.7125,-39.2481,Pousada dos Navegantes
+181,Prieska,ZA,74.14,45,78,-29.6641,22.7474,Avenue GuestHouse
+182,Antalaha,MG,77.65,87,91,-14.9003,50.2788,Hotel Vitasoa
+185,Hobyo,SO,84.63,59,7,5.3505,48.5268,Halane Hotel and Restaurent
+189,Zemio,CF,87.51,40,100,5.0314,25.1361,OCHA Office
+191,Saint-Pierre,RE,83.17,61,75,-21.3393,55.4781,Alize Plage
+193,Kruisfontein,ZA,70.07,51,100,-34.0033,24.7314,Oyster Bay House Rental
+194,Isiro,CD,71.51,84,100,2.7739,27.616,Guest House Hewa Bora
+195,Karaton,ID,83.35,66,97,-6.3424,106.1045,Parkir Mobil Wisata CAS Water Park
+196,Biltine,TD,81.81,13,0,14.5333,20.9167,Hôtel Trois Étoiles de Biltine
+197,Itarema,BR,79.95,70,100,-2.9248,-39.9167,"Sea Lounge! Bar, Club & Restaurant"
+199,Inirida,CO,71.87,99,82,3.8653,-67.9239,Fuente del Guania Hotel de Lujo
+200,Saint-Joseph,RE,82.09,74,50,-21.3667,55.6167,"""Plantation Bed and Breakfast"
+201,Kasempa,ZM,84.47,39,13,-13.4584,25.8338,Lolelunga Forest Reserve
+202,Ilhabela,BR,72.57,91,100,-23.7781,-45.3581,Ilha Flat Hotel
+206,Farafangana,MG,77.16,57,78,-22.8167,47.8333,Miarina
+212,Sao Domingos Do Maranhao,BR,72.27,90,64,-5.5758,-44.3853,Pousada Babaçu
+214,Pedasi,PA,75.07,84,99,7.5333,-80.0333,Hotel Casa de Campo Pedasí
+215,Domoni,KM,84.92,63,10,-12.2569,44.5319,Al Djadid
+218,Cabedelo,BR,72.27,73,8,-6.9811,-34.8339,Pousada Camboinha
+223,Kibre Mengist,ET,71.89,50,50,5.8833,38.9833,kal beauty salone adola
+225,Dimbokro,CI,76.86,84,21,6.6451,-4.7048,complexe hôtelier le jardin d'Eden
+227,Morondava,MG,81.79,55,0,-20.2833,44.2833,La Case Bambou
+229,Bilma,NE,70.0,18,100,18.6853,12.9164,Expeditions Ténére voyages
+232,Kanniyakumari,IN,83.68,63,11,8.0833,77.5667,Sparsa Kanyakumari
+233,Grand Gaube,MU,84.6,71,0,-20.0064,57.6608,Veranda Paul et Virginie Hotel & Spa
+236,Ormara,PK,83.98,32,14,25.2088,64.6357,Kenara Colony House for Rent
+240,Sokoni,TZ,87.66,77,21,-6.4333,39.55,Ujamaa Beach Resort
+242,Cayenne,GF,75.24,94,75,4.9333,-52.3333,Hôtel Le Dronmi
+249,Nizwa,OM,81.97,32,5,22.9333,57.5333,Orient Apartments
+252,Garissa,KE,86.11,57,54,-0.4536,39.6401,Sharif Plaza Hotel
+255,Namibe,AO,79.16,67,83,-15.1961,12.1522,Hotel Chik Chik Namibe
+256,Port-Gentil,GA,82.36,83,40,-0.7193,8.7815,Fengshui Residence
+260,Bengkulu,ID,82.24,75,6,-3.8004,102.2655,Grage Hotel Bengkulu
+261,Tonantins,BR,73.44,98,100,-2.8731,-67.8022,Hotel Hortensias
